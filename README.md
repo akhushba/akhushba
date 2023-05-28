@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Amna!
-- 👀 I’m interested in software engineering, books, cycling, and so much more!
-- 🌱 I’m currently learning at the University of Waterloo to improve my coding skills and to reach out to more people.
-- 💞️ I’m looking to collaborate on projects of any kind, I love being brought something new or witnessing the start of something amazing.
-- 📫 How to reach me ...
+Hello!
+
+My name is Amna Khushbakht and I'm a second-year software engineering student at the University of Waterloo.
+I'm currently expanding my coding skills, and researching about the tech industry, looking to make a positive impact on the world around us someday through the diverse, revolutionary sphere that our software exists in today. 
 
 <!---
 akhushba/akhushba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
